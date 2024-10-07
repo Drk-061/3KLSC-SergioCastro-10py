@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "3KLSC-SergioCastro-10py", "3KLSC-SergioCastro-10py\3KLSC-SergioCastro-10py.pyproj", "{5AF3EC39-347C-426A-B3B6-1FE0513A7A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AF3EC39-347C-426A-B3B6-1FE0513A7A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF3EC39-347C-426A-B3B6-1FE0513A7A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {633FF879-55B6-4F08-B6E7-17D362DD3296}
+	EndGlobalSection
+EndGlobal
